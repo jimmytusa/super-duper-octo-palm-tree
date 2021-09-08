@@ -3,3 +3,6 @@ Honestly a little unsure about the workings of Github.
 
 
 If I edit this, does something new happen. Test 1.
+
+So to summise and note. When committing, each new addition and modification of a file is noted and shown to the user.
+When committing, make sure to detail what has changed in the text box and write in areas below.
